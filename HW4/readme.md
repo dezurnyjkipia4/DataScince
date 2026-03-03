@@ -5,7 +5,7 @@
 Выполнено:
 
 1.анализ датасета на наличие пропусков; 
-https://github.com/dezurnyjkipia4/DataScince/blob/main/HW4/readme.md
+
 
 
 2.приведение категориальных признаков датасета к числовым; 
