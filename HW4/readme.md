@@ -39,6 +39,9 @@ https://github.com/dezurnyjkipia4/DataScince/blob/main/HW4/readme.md
 
   
 5. Визуализация
+
+
+
 6.Заключение по классификаторам:
      Рейтинг моделей по точности:
 1 1. ada_boosting: 1.0000    (переобучена при разных test_size, random_state)
