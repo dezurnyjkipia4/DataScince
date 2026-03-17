@@ -1,0 +1,13 @@
+feature,importance
+avg_watch_time_minutes,0.11016133795358721
+recommendation_click_rate,0.10202560896783777
+completion_rate,0.09877779018453753
+account_age_months,0.09756249553365044
+days_since_last_login,0.09677030541978515
+content_interactions,0.0941415575710186
+age,0.09398228866581224
+rating_given,0.09322996143794665
+watch_sessions_per_week,0.07887315288285035
+binge_watch_sessions,0.07283310006342214
+monthly_fee,0.03132842549968294
+devices_used,0.030313975819869075

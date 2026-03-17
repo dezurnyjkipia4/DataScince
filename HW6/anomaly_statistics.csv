@@ -1,0 +1,6 @@
+Метод,Аномалий,Процент
+Z-Score,0,0.0
+IsolationForest,1000,10.0
+LOF,1000,10.0
+EllipticEnvelope,1000,10.0
+OneClassSVM,5996,59.96
